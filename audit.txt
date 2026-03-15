@@ -1,0 +1,4 @@
+Target: /var/log/auth.log
+Search Term: "Failed password"
+Result: 0 matches found.
+Status: The system currently shows no unauthorized access attempts.
