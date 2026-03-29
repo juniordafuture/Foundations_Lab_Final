@@ -1,0 +1,2 @@
+{"timestamp":75562051,"category":"bounce.tracking.protection","name":"purge_action","extra":{"site_host":"localhost","success":"true","glean_timestamp":"1774233860291","is_dry_run":"true","bounce_time":"1774226185","require_stateful_bounces":"false"}}
+{"timestamp":75562052,"category":"bounce.tracking.protection","name":"purge_action","extra":{"require_stateful_bounces":"false","glean_timestamp":"1774233860292","bounce_time":"1774226263","is_dry_run":"true","success":"true","site_host":"127.0.0.1"}}
