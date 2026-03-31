@@ -1,0 +1,10 @@
+==================================================
+SESSION 10: SANDBOX DETONATION REPORT
+Operator: dwayne
+==================================================
+
+QUESTION 1: Did the ping to google.com succeed or fail in Host-Only mode?
+ANSWER: The ping test failed with a 'Temporary failure in name resolution' error []. This confirms the virtual machine is successfully isolated in a sandbox environment and cannot communicate with the external internet
+
+QUESTION 2: Why must a SOC analyst NEVER use "Bridged" mode when detonating unknown malware?
+ANSWER: Bridged mode treats the VM as a direct member of the physical local network []. This is a critical security risk because it gives malware a direct path to scan, map, and attack other physical devices on my home or corporate Wi-Fi/LAN
