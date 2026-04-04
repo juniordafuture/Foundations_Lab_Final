@@ -304,3 +304,6 @@ curl http://secure.titancorp.com
 ip route
 curl http://secure.titancorp.com
 curl -sL https://gist.githubusercontent.com/grobbins-cell/3dc9c8f1ef244c716f5dc703e9043728/raw/7a1f22b97968b2cba92f4032381f772aca9e0e8b/w2_tlab_setup.sh | sudo bash
+python3 ~/port_check.py
+git log --oneline -5
+python3
